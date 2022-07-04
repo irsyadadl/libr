@@ -13,10 +13,7 @@ npm install
 npm run dev
 ```
 
-Create your database!
+Create your database, and now you can migrate!
 ```bash
-mysql -uroot
-create database libr;
-exit
 php artisan migrate
 ```
