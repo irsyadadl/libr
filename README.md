@@ -12,3 +12,11 @@ php artisan key:generate
 npm install
 npm run dev
 ```
+
+Create your database!
+```bash
+mysql -uroot
+create database libr;
+exit
+php artisan migrate
+```
