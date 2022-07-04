@@ -4,8 +4,8 @@
 Follow these steps, and you good to go!
 
 ```bash
-git clone https://github.com/teamparsinta/breeze-bootstrap.git 'project'
-cd project
+git clone https://github.com/teamparsinta/breeze-bootstrap.git 'fast'
+cd fast
 composer install
 cp .env.example .env
 php artisan key:generate
