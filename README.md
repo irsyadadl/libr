@@ -18,7 +18,7 @@ php artisan migrate
 
 
 ---
-This project is composed of several open sources that may not be able to list all of them, but here are some that I can still show you.
+This project is composed of several open sources that may not be able to list all of them, but here are some that I can show you.
 * [Laravel](https://github.com/laravel/laravel) (v9.19.0)
 * [React](https://github.com/facebook/react) (v17.0.2)
 * [Sass](https://github.com/sass/sass) (v1.53.0)
