@@ -27,6 +27,6 @@ This project is composed of several open sources that may not be able to list al
 * [Clsx](https://github.com/lukeed/clsx) (1.2.0)
 * [Inertiajs](https://github.com/inertiajs) (v0.11.0)
 * [Prettier](https://github.com/prettier/prettier) (v2.7.1)
-* [Laravel Vite Plugin](https://github.com/laravel/vite-plugin)
+* [Laravel Vite Plugin](https://github.com/laravel/vite-plugin) (v0.2.1)
 
 For more information, just type `npm fund` and `composer fund` too see what inside!

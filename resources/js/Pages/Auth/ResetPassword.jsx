@@ -34,7 +34,9 @@ export default function ResetPassword({ token, email }) {
             <Head title="Reset Password" />
             <div className="mb-4">
                 <h4 className="card-title">Reset Password</h4>
-                <div className="text-muted">Please enter the new password for your account.</div>
+                <div className="text-muted">
+                    Please enter the new password for your account.
+                </div>
             </div>
             <form onSubmit={submit}>
                 <div>
@@ -83,9 +85,7 @@ export default function ResetPassword({ token, email }) {
                 </div>
 
                 <div className="flex items-center justify-end mt-4">
-                    <Button processing={processing}>
-                        Reset Password
-                    </Button>
+                    <Button processing={processing}>Reset Password</Button>
                 </div>
             </form>
         </Guest>
