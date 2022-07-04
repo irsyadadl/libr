@@ -4,8 +4,8 @@
 Follow these steps, and you good to go!
 
 ```bash
-git clone https://github.com/irsyadadl/blirb.git 'fast'
-cd fast
+git clone https://github.com/irsyadadl/libr.git
+cd libr
 composer install
 cp .env.example .env
 php artisan key:generate
