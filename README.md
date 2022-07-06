@@ -24,4 +24,5 @@ This project is composed of several open sources that may not be able to list al
 * [Vite](https://github.com/vitejs/vite)
 * [Sass](https://github.com/sass/sass)
 * [Inertiajs](https://github.com/inertiajs)
+
 For more information, just type `npm fund` and `composer fund` too see what inside!
